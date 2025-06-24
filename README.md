@@ -14,7 +14,9 @@ I'm a developer that focusses on learning as many languages as possible while st
 10. Assembly (read-only)
 
 ![samicpp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samicpp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 ![samicpp's Stats](https://github-readme-stats.vercel.app/api?username=samicpp&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 ![samicpp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=samicpp&theme=tokyonight&hide_border=true)
 
 <!--
