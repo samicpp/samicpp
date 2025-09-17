@@ -1,17 +1,27 @@
 ## Hello
-I'm a developer that focusses on learning as many languages as possible while still being capable of making advanced projects with them.
+I'm a full-stack developer. 
+I started out my developer carreer as a child and mostly worked with websites.
 
 ### Language top 10
-1. JavaScript/TypeScript
-2. Rust
+1. Rust
+2. JavaScript/TypeScript
 3. C/C++
 4. Java
-5. Python
-6. C#
-7. PHP
-8. Kotlin
+5. Kotlin
+6. Python
+7. C#
+8. PHP
 9. SQL
 10. Assembly (read-only)
+
+### Open-Source Project Roadmap (including planned)
+
+- [x] [tcp-services](https://github.com/samicpp/tcp-services) on Dec 14, 2024
+- [x] [sorting-algorithms](https://github.com/samicpp/sorting-algorithms) on Jun 4, 2025 & [sort-visualizer](https://github.com/samicpp/sort-visualizer) on Jun 8, 2025
+- [x] [rust-http](https://github.com/samicpp/rust-http) on Feb 11, 2025 & [static-serve](https://github.com/samicpp/static-serve) on Jul 10, 2025
+- [x] [java-http](https://github.com/samicpp/java-http) on Sep 12, 2025 & [web-java](https://github.com/samicpp/web-java) on Sep 12, 2025
+- [ ] A simple game in C++
+- [ ] My dream game using Godot and C#
 
 ![samicpp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samicpp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
