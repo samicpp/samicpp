@@ -21,6 +21,7 @@ I started out my developer carreer as a child and mostly worked with websites.
 - [x] [rust-http](https://github.com/samicpp/rust-http) on Feb 11, 2025 & [static-serve](https://github.com/samicpp/static-serve) on Jul 10, 2025
 - [x] [java-http](https://github.com/samicpp/java-http) on Sep 12, 2025 & [web-java](https://github.com/samicpp/web-java) on Sep 12, 2025
 - [ ] A simple game in C++
+- [ ] An android app in Kotlin 
 - [ ] My dream game using Godot and C#
 
 ![samicpp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samicpp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
