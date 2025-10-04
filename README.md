@@ -23,6 +23,7 @@ I started out my developer carreer as a child and mostly worked with websites.
 - [ ] A simple game in C++
 - [ ] An android app in Kotlin 
 - [ ] My dream game using Godot and C#
+- [ ] Build my own Minecraft server from scratch in rust
 - [ ] Build my own Os and Kernel
 
 ![samicpp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samicpp&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
