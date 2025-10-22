@@ -5,14 +5,14 @@ I started out my developer carreer as a child and mostly worked with websites.
 ### Language top 10
 1. Rust
 2. JavaScript/TypeScript
-3. C/C++
-4. Java
-5. Kotlin
+3. c#
+4. C/C++
+5. Java / Kotlin
 6. Python
-7. C#
-8. PHP
-9. SQL
-10. Assembly (read-only)
+7. PHP
+8. SQL
+9. Lua
+10.  Assembly (read-only)
 
 ### Open-Source Project Roadmap (including planned)
 
