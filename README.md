@@ -5,7 +5,7 @@ I started out my developer carreer as a child and mostly worked with websites.
 ### Language top 10
 1. Rust
 2. JavaScript/TypeScript
-3. c#
+3. C#
 4. C/C++
 5. Java / Kotlin
 6. Python
@@ -20,6 +20,7 @@ I started out my developer carreer as a child and mostly worked with websites.
 - [x] [sorting-algorithms](https://github.com/samicpp/sorting-algorithms) on Jun 4, 2025 & [sort-visualizer](https://github.com/samicpp/sort-visualizer) on Jun 8, 2025
 - [x] [rust-http](https://github.com/samicpp/rust-http) on Feb 11, 2025 & [static-serve](https://github.com/samicpp/static-serve) on Jul 10, 2025
 - [x] [java-http](https://github.com/samicpp/java-http) on Sep 12, 2025 & [web-java](https://github.com/samicpp/web-java) on Sep 12, 2025
+- [x] [dotnet-http](https://github.com/samicpp/dotnet-http) on Oct 12 2025
 - [ ] A simple game in C++
 - [ ] An android app in Kotlin 
 - [ ] My dream game using Godot and C#
