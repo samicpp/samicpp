@@ -1,5 +1,5 @@
 ## Hello
-I'm a full-stack developer. 
+I'm a full-stack & protocol & system developer. 
 I started out my developer carreer as a child and mostly worked with websites.
 
 ### Language top 10
