@@ -23,6 +23,7 @@ I started out my developer carreer as a child and mostly worked with websites.
 - [x] [dotnet-http](https://github.com/samicpp/dotnet-http) on Oct 12 2025 & [csweb](https://github.com/samicpp/csweb) Oct 23 2025
 - [x] [obstacle-game](https://github.com/samicpp/obstacle-game) on Nov 7 2025
 - [ ] A http client from scratch in C++
+- [ ] An ffi HTTP framework that works in multiple langs
 - [ ] A horror game in Unity
 - [ ] My dream game using Unreal Engine and C++
 - [ ] A simple game in C++
