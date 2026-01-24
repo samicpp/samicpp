@@ -1,6 +1,7 @@
 ## Hello
-I'm a full-stack & protocol & system developer. 
-I started out my developer carreer as a child and mostly worked with websites.
+I'm a full-stack & protocol & system developer. <br/>
+I started out my developer carreer as a child. <br/>
+I like specifying in many fields for unique insights. <br/>
 
 ### Language top 10
 1. Rust
