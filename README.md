@@ -23,8 +23,8 @@ I like specifying in many fields for unique insights. <br/>
 - [x] [java-http](https://github.com/samicpp/java-http) on Sep 12, 2025 & [web-java](https://github.com/samicpp/web-java) on Sep 12, 2025
 - [x] [dotnet-http](https://github.com/samicpp/dotnet-http) on Oct 12 2025 & [csweb](https://github.com/samicpp/csweb) Oct 23 2025
 - [x] [obstacle-game](https://github.com/samicpp/obstacle-game) on Nov 7 2025
-- [ ] A http client from scratch in C++
 - [ ] An ffi HTTP framework that works in multiple langs
+- [ ] A HTTP test suite in C++
 - [ ] A horror game in Unity
 - [ ] My dream game using Unreal Engine and C++
 - [ ] A simple game in C++
